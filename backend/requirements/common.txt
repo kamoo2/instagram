@@ -1,1 +1,7 @@
 Django==3.1.7
+pillow
+djangorestframework
+djangorestframework-jwt
+django-pydenticon
+django-cors-headers
+
